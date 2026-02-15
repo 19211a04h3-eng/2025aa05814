@@ -82,4 +82,4 @@ Each model was evaluated using the following metrics:
 
 
 ## Streamlit deployed link
-https://ml-assignment-2-ursiru6q2v9fmhmdhtldxj.streamlit.app/
+https://2025aa05814-5ppjjnysxbs9t2y8ydn8lw.streamlit.app/
