@@ -83,3 +83,8 @@ Each model was evaluated using the following metrics:
 
 ## Streamlit deployed link
 https://2025aa05814-5ppjjnysxbs9t2y8ydn8lw.streamlit.app/
+
+## Github Repo Link
+https://github.com/19211a04h3-eng/2025aa05814
+
+deployed using personal mail since college mail Id is not working
